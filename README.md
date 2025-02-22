@@ -13,7 +13,7 @@
 - 📫 **How to reach me:**  
   - 🔗 [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/elson-benn-macalintal-b0180a198/))  
   - 📧 elsonmacalintal@gmail.com
-- ⚡ **Fun fact:** I love anime and working out!  
+- ⚡ **Fun fact:** I love anime and working out! (HxH Best Anime!)
 
 ## 🛠 Tech Stack & Tools  
 🔥 **Languages:** Python, SQL, C++
