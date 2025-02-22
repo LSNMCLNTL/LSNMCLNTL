@@ -9,12 +9,11 @@
 ## 🚀 About Me  
 - 🎓 **Computer Science Graduate**  
 - 🔭 **Currently working on:** Skin lesion classification using Machine Learning (SVM, RF, LR, K-NN)  
-- 🌱 **Currently learning:** C++, Advanced SQL, Data Engineering concepts  
-- 👯 **Looking to collaborate on:** Data Science, Machine Learning, and AI projects  
+- 🌱 **Currently learning:** Advanced SQL, Data Science
 - 💬 **Ask me about:** Python, Machine Learning, Feature Engineering  
 - 📫 **How to reach me:**  
-  - 🔗 [LinkedIn](your_linkedin_profile)  
-  - 📧 your.email@example.com  
+  - 🔗 [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/elson-benn-macalintal-b0180a198/))  
+  - 📧 elsonmacalintal@gmail.com
 - ⚡ **Fun fact:** I love anime and working out!  
 
 ## 🛠 Tech Stack & Tools  
