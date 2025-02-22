@@ -10,7 +10,6 @@
 - 🎓 **Computer Science Graduate**  
 - 🔭 **Currently working on:** Skin lesion classification using Machine Learning (SVM, RF, LR, K-NN)  
 - 🌱 **Currently learning:** Advanced SQL, Data Science
-- 💬 **Ask me about:** Python, Machine Learning, Feature Engineering  
 - 📫 **How to reach me:**  
   - 🔗 [LinkedIn]([your_linkedin_profile](https://www.linkedin.com/in/elson-benn-macalintal-b0180a198/))  
   - 📧 elsonmacalintal@gmail.com
