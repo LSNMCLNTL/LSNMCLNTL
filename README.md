@@ -16,7 +16,7 @@
 - ⚡ **Fun fact:** I love anime and working out! (HxH Best Anime!)
 
 ## 🛠 Tech Stack & Tools  
-🔥 **Languages:** Python, SQL, C++
+🔥 **Languages:** Python, SQL, C++    
 📈 **Data Analysis:** Excel, Power BI, Tableau  
 🧠 **Machine Learning:** Scikit-Learn, TensorFlow  
 📊 **Data Visualization:** Matplotlib, Seaborn  
